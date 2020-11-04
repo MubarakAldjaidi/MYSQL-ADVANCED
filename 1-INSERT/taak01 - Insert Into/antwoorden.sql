@@ -1,1 +1,2 @@
-
+INSERT  INTO studenten (voornaam, achternaam, klas, adres, postcode, geboortedatum, woonplaats)
+VALUES ('Mubarak', 'Aldjaidi', '9D', 'Bart van der Leckplantsoen 18', '1061 VL', '1998-03-01', 'Amsterdam');
